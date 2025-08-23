@@ -251,5 +251,8 @@
 "sg501.png"
 "sg502.png"
 "sg571.png"
+"sg111m.png"
+"sg112m.png"
+"sg113m.png"
 
 ]
