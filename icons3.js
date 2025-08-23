@@ -253,6 +253,7 @@
 "sg827.png"
 "sg828.png"
 "sg832.png"
+"sg852.png"
 "sg855.png"
 "sg859.png"
 "sg868.png"
