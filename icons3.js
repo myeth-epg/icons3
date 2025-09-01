@@ -260,6 +260,7 @@
 "sg869.png"
 "sg501.png"
 "sg502.png"
+"sg503.png"
 "sg571.png"
 "sg111m.png"
 "sg112m.png"
