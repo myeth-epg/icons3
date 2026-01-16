@@ -191,6 +191,7 @@
 "sg210.png"
 "sg211.png"
 "sg213.png"
+
 "sg214.png"
 "sg215.png"
 "sg216.png"
@@ -262,6 +263,8 @@
 "sg502.png"
 "sg503.png"
 "sg571.png"
+"sg2213.png"
+"sg2214.png"
 "sg111m.png"
 "sg112m.png"
 "sg113m.png"
